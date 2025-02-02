@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working On Improving My React JS.<br>I have learned MERN stack Web Development.<br>Love Making Cool Functional Hobby Projects.<br>You Can Ask Me About Website Development And IT Info.<br>Funfact: Sometimes Gotta User ChatGPT
+Currently Working On Improving My React JS.<br>I have learned MERN stack Web Development.<br>Love Making Cool Functional Hobby Projects.<br>You Can Ask Me About Website Development And IT Info.<br>Funfact: Sometimes Gotta Use ChatGPT
 
 
 ## 🌐 Socials:
